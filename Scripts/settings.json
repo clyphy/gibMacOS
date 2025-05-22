@@ -1,0 +1,8 @@
+{
+  "current_macos": 20,
+  "current_catalog": "publicrelease",
+  "print_urls": false,
+  "find_recovery": false,
+  "hide_pid": false,
+  "caffeinate_downloads": true
+}
